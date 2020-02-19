@@ -11,5 +11,5 @@
 - [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing)
 
 # your turn ?
-> add your tools via PR
+> add your favorite tools via PR
 
