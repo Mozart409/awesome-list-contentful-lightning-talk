@@ -9,7 +9,6 @@
 ## vscode
 - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing)
-- 
 
 # your turn ?
 > add your tools via PR
